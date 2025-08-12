@@ -1,0 +1,7 @@
+typer
+python-docx
+pyyaml
+textstat
+rich
+chromadb
+pymupdf

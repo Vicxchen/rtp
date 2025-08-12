@@ -1,0 +1,18 @@
+[project]
+name = "rtp"
+version = "0.1.0"
+description = "Resume Tailoring Parser CLI"
+authors = [{ name = "Vic", email = "you@example.com" }]
+dependencies = [
+  "typer",
+  "python-docx",
+  "pyyaml",
+  "textstat",
+  "rich",
+  "chromadb",
+  "pymupdf"
+]
+
+[project.scripts]
+rtp = "rtp.cli:app"
+

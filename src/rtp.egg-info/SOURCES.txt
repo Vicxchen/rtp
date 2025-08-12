@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+src/rtp/__init__.py
+src/rtp/cli.py
+src/rtp.egg-info/PKG-INFO
+src/rtp.egg-info/SOURCES.txt
+src/rtp.egg-info/dependency_links.txt
+src/rtp.egg-info/entry_points.txt
+src/rtp.egg-info/requires.txt
+src/rtp.egg-info/top_level.txt
+src/rtp/core/__init__.py
+src/rtp/core/jd_parser.py
+src/rtp/core/tailor.py
+src/rtp/src/rtp/__init__.py
+src/rtp/src/rtp/cli.py
+src/rtp/src/rtp/core/__init__.py
+src/rtp/src/rtp/core/jd_parser.py
